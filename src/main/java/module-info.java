@@ -5,4 +5,5 @@ module org.calma.ui {
 
     opens org.calma.ui to javafx.fxml;
     exports org.calma.ui;
+    exports org.calma.ui.laboratoire3;
 }

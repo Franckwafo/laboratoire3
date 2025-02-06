@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>org.calma.ui/org.calma.ui.HelloApplication</mainClass>
+                            <mainClass>org.calma.ui/org.calma.ui.laboratoire3.FichePart2_model</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
