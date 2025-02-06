@@ -11,6 +11,6 @@ public class FichePart1 extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        
+
     }
 }
